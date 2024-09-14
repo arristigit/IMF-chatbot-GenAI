@@ -102,9 +102,7 @@ Summarize the retrieved text using a Generative AI model (OpenAI GPT).
 - **Response**:
     ```bash
     {
-        "summary": [
-            "The IMF promotes global financial stability and helps its member countries maintain economic balance."
-        ]
+        "summary": "The IMF promotes global financial stability and helps its member countries maintain economic balance."
     }
     ```
 
@@ -120,7 +118,9 @@ Retrieve relevant sections from the document and summarize the content.
 - **Response**:
     ```bash
     {
-        "summary": "The IMF’s expenses in 2022 include operational costs and other administrative expenses."
+        "summary": [
+            "The IMF’s expenses in 2022 include operational costs and other administrative expenses."
+        ]
     }
     ```
 
