@@ -12,10 +12,10 @@ app = FastAPI()
 
 # Instantiate necessary keys
 OPENAI_API_KEY=config("OPENAI_API_KEY")
-pdf_url = "https://www.imf.org/external/pubs/ft/ar/2022/downloads/2022-financial-statements.pdf"
+PDF_URL=config("PDF_URL")
 
 # Download and process the PDF
-pdf_processor = PDFProcessor(pdf_url)
+pdf_processor = PDFProcessor(PDF_URL)
 extracted_text = pdf_processor.extract_text()
 
 # Initialize DocumentRetriever & ModelHandler
