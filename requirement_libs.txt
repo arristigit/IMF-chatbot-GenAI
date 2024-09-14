@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai
+scikit-learn
+PyPDF2
+requests

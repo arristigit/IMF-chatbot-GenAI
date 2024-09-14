@@ -1,0 +1,30 @@
+// Query: 
+{
+    "query": "Profit & Loss in the whole year"
+}
+
+{
+    "summaries": [
+        {
+            "content": "As of April 30, 2021, the financial report shows the breakdown of assets held in different categories: Others (2,229 million SDRs), Sovereign bonds (11,892 million SDRs), Corporate bonds (3,616 million SDRs), Securitized assets (741 million SDRs), Short-term investments (251 million SDRs), and Derivative assets (106 million SDRs). The total value of assets at fair value through profit or loss is 18,835 million SDRs. There are no fixed-term deposits reported in the financial statement.",
+            "refusal": null,
+            "role": "assistant",
+            "function_call": null,
+            "tool_calls": null
+        },
+        {
+            "content": "The financial statements are prepared based on the assumption that the General Department will continue operating as a going concern. The statements are presented in Special Drawing Rights (SDRs), the IMF's unit of account, which is determined daily by the IMF based on market exchange rates of specific basket currencies in US dollar equivalents.",
+            "refusal": null,
+            "role": "assistant",
+            "function_call": null,
+            "tool_calls": null
+        },
+        {
+            "content": "The text highlights the importance of ensuring that the Trusts are adequately financed. It mentions that risk management practices have successfully reduced the risk exposure of global developments on the investment portfolios. It notes that financial instruments held at fair value recovered quickly after a brief decline due to the pandemic. However, concerns are raised about the impact of the war in Ukraine and tightening monetary conditions.",
+            "refusal": null,
+            "role": "assistant",
+            "function_call": null,
+            "tool_calls": null
+        }
+    ]
+}

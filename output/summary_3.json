@@ -1,0 +1,25 @@
+{
+    "summaries": [
+        {
+            "content": "Various entities such as the RBP, RSBIA, and trusts administered by the IMF as Trustee are paid by the GRA. Reimbursements are made at the end of each financial year through assessments levied on SDR Department participants. The SRP and RSBIA reimburse the GRA for investment operation costs.",
+            "refusal": null,
+            "role": "assistant",
+            "function_call": null,
+            "tool_calls": null
+        },
+        {
+            "content": "The Executive Board approved a suspension of reimbursement by the PRG Trust to the GRA for financial years 2022 to 2026 on July 14, 2021. This decision resulted in the forgone reimbursement of SDR 76 million by the PRG Trust to the GRA during the financial year ended April 30, 2022.",
+            "refusal": null,
+            "role": "assistant",
+            "function_call": null,
+            "tool_calls": null
+        },
+        {
+            "content": "The value of the IMF's gold holdings and profits from gold sales are determined by restrictions on their use. When the IMF sells gold acquired before a specific agreement, a portion of the proceeds equal to the historical cost must be placed in the General Resources Account (GRA). Any excess proceeds will be held in the Special Drawing Rights (SD) account.",
+            "refusal": null,
+            "role": "assistant",
+            "function_call": null,
+            "tool_calls": null
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "summaries": [
+        {
+            "content": "Disbursements under PRG Trust arrangements are made in installments and are contingent upon meeting performance criteria, structural benchmarks, and prior actions. The IMF, as Trustee, conducts regular reviews to monitor compliance. Safeguards and misreporting policies are in place to prevent misuse of resources and address incorrect data reporting or failure to meet program conditions.",
+            "refusal": null,
+            "role": "assistant",
+            "function_call": null,
+            "tool_calls": null
+        },
+        {
+            "content": "The general objective of the account is to cover expenditures, with performance measured in US dollars and translated into SDRs for financial reporting. The Rules and Regulations of the IA allow for hedging against exchange rate risk for fixed-income instruments denominated in developed market currencies compared to the US dollar. Valuation changes from exchange rate fluctuations are included in the determination of performance.",
+            "refusal": null,
+            "role": "assistant",
+            "function_call": null,
+            "tool_calls": null
+        },
+        {
+            "content": "The text explains that the PRG Trust is the only one among the Trusts mentioned that invests in equity securities and derivatives. The investment portfolios of the Trusts are managed according to specific strategies and their performance is assessed based on fair value. The main focus of the invested portfolios is to achieve fair value gains, leading to classification at Fair Value through Profit or Loss (FVPL).",
+            "refusal": null,
+            "role": "assistant",
+            "function_call": null,
+            "tool_calls": null
+        }
+    ]
+}
